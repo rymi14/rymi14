@@ -1,13 +1,12 @@
-# Hi, I'm Ricardo Yair Martinez Ibarra 👋
+# Hi, I'm Ricardo Yair Martinez Ibarra 👋 
 
-M.Sc. in Physics specialized in Cosmology, currently transitioning into Software Engineering.
+M.Sc. in Physics, specializing in Cosmology 🔭 🪐, currently transitioning into Software Engineering. 
 
 ## About Me
 
-- Python developer
 - Scientific Computing
 - Numerical Methods
-- Learning Software Engineering
+- Outside of programming, I enjoy video games 🎮 and reading 📚
 
 ## Technologies 💻
 
