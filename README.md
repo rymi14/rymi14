@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ricardo (Yair) Martinez 👋
+
+M.Sc. in Physics specialized in Cosmology, currently transitioning into Software Engineering.
+
+## About Me
+
+- Python developer
+- Scientific Computing
+- Numerical Methods
+- Learning Software Engineering
+
+## Technologies
+
+- Python
+- NumPy
+- Git
+- GitHub
+- Bash
+- HTML
+- CSS
+- JavaScript
 
 <!--
-**rymi14/rymi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently Learning
 
-Here are some ideas to get you started:
+- SQL
+- APIs
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Current Projects
+
+- Monte Carlo Simulator
+- Numerical Methods
+- Personal Website
 -->
+## Contact
+
+- Email
+- LinkedIn
