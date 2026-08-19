@@ -20,6 +20,13 @@ M.Sc. in Physics, specializing in Cosmology 🔭 🪐, currently transitioning i
 - CSS
 - JavaScript
 
+## Tools & Environment 🛠️
+
+- LaTeX
+- Visual Studio Code
+- PyCharm
+- Warp
+
 <!--
 ## Currently Learning
 
