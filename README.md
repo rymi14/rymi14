@@ -1,4 +1,4 @@
-# Hi, I'm Ricardo Yair Martinez Ibarra 👋 
+# Hi, I'm Ricardo Yair Martinez Ibarra 🖖
 
 M.Sc. in Physics, specializing in Cosmology 🔭 🪐, currently transitioning into Software Engineering. 
 
