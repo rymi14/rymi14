@@ -1,4 +1,4 @@
-# Hi, I'm Ricardo (Yair) Martinez 👋
+# Hi, I'm Ricardo Yair Martinez Ibarra 👋
 
 M.Sc. in Physics specialized in Cosmology, currently transitioning into Software Engineering.
 
@@ -9,7 +9,7 @@ M.Sc. in Physics specialized in Cosmology, currently transitioning into Software
 - Numerical Methods
 - Learning Software Engineering
 
-## Technologies
+## Technologies 💻
 
 - Python
 - NumPy
@@ -33,7 +33,6 @@ M.Sc. in Physics specialized in Cosmology, currently transitioning into Software
 - Numerical Methods
 - Personal Website
 -->
-## Contact
+## Contact 📧 👨‍💻
 
-- Email
-- LinkedIn
+- Email: ryair.martinezi@gmail.com
