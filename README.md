@@ -14,6 +14,7 @@ M.Sc. in Physics, specializing in Cosmology 🔭 🪐, currently transitioning i
 - NumPy
 - Git
 - GitHub
+- LaTex
 - Bash
 - HTML
 - CSS
